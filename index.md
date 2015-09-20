@@ -9,4 +9,4 @@ title: Home Page
 
 ## Software
 
-[SC2 Matchmaker Releases](https://github.com/dosimont/sc2_matchmaker/releases)
+* [SC2 Matchmaker](https://github.com/dosimont/sc2_matchmaker/releases)
