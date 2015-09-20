@@ -1,6 +1,6 @@
 ---
 layout: sc2
-title: desertstrike
+title: Desert Strike
 ---
 | Name | Rank     | Overall    | Terran     | Zerg       | Protoss    | Random     |
 |:----:|:--------:|:----------:|:----------:|:----------:|:----------:|:----------:|

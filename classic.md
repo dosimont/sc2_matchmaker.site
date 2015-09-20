@@ -1,6 +1,6 @@
 ---
 layout: sc2
-title: classic
+title: Classic
 ---
 | Name | Rank     | Overall      | Terran     | Zerg       | Protoss    | Random     |
 |:----:|:--------:|:------------:|:----------:|:----------:|:----------:|:----------:|
