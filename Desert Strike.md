@@ -2,7 +2,7 @@
 layout: sc2
 title: Desert Strike
 ---
-| Name | Rank     | Overall    | Terran     | Zerg       | Protoss    | Random     |
+| Rank | Name     | Overall    | Terran     | Zerg       | Protoss    | Random     |
 |:----:|:--------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | 1    | Damien   | 1013 (3/1) | 1020 (1/0) |None        | 980 (0/1)  | 1040 (2/0) |
 | 2    | Matthieu | 1010 (3/1) | 980 (0/1)  | 1020 (1/0) | 1020 (1/0) | 1020 (1/0) |

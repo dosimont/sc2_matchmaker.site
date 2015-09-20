@@ -2,7 +2,7 @@
 layout: sc2
 title: Classic
 ---
-| Name | Rank     | Overall      | Terran     | Zerg       | Protoss    | Random     |
+| Rank | Name     | Overall      | Terran     | Zerg       | Protoss    | Random     |
 |:----:|:--------:|:------------:|:----------:|:----------:|:----------:|:----------:|
 | 1    | Pierre   | 1381 (9/12)  | 1400 (1/1) | 1307 (1/5) | 1457 (4/1) | 1360 (3/5) |
 | 2    | Florent  | 1314 (19/10) | 1398 (3/3) | 1240 (6/4) | 1353 (5/1) | 1265 (5/2) |
