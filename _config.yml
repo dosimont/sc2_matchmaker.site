@@ -19,8 +19,8 @@ sass:
   style:            :compressed
 
 # About/contact
-author:
-  name:              
+author:		    
+  name:             Damien Dosimont
   url:               
   email:             
 
