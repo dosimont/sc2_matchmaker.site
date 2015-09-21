@@ -1,6 +1,5 @@
 ---
 layout: sc2
-title: Home Page
 ---
 ## Rankings
 
