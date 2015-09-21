@@ -7,9 +7,9 @@ relative_permalinks: true
 # Setup
 title:               Team Krainry
 tagline:             SC2 Rankings
-url:                 http://sc2matchmaker.github.io/
+url:                 http://krainry.github.io/
 paginate:            1
-baseurl:             ""
+baseurl:             "http://krainry.github.io/"
 
 # Assets
 #
