@@ -4,6 +4,7 @@
 
 @font-face {
     font-family: "Renegado";
+    font-weight: bold;
     src: url("{{ site.baseurl }}/fonts/renegado.ttf");
 }
 
@@ -19,9 +20,6 @@ body {
   padding: 0;
 }
 
-h1,h2,h3,h4,h5 {
-  font-family: "Renegado", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
