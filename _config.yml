@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               SC2 Matchmaker
-tagline:             Elo and Ranks of Krainry Team's players
+title:               Team Krainry
+tagline:             SC2 Rankings
 url:                 http://sc2matchmaker.github.io/
 paginate:            1
 baseurl:             ""
