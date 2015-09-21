@@ -2,6 +2,11 @@
 //
 // Update the foundational and global aspects of the page.
 
+@font-face {
+    font-family: "Renegado";
+    src: url("{{ site.baseurl }}/fonts/renegado.ttf");
+}
+
 * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
@@ -12,6 +17,10 @@ html,
 body {
   margin: 0;
   padding: 0;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 html {
