@@ -40,7 +40,7 @@ body {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: #DB1702;
+  color: #2E64FE;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -81,5 +81,5 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #fff4f4;
+  background-color: #DAFCFB;
 }
