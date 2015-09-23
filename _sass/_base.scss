@@ -9,7 +9,7 @@
 }
 
 @font-face {
-    font-family: "Saucer";
+    font-family: "SaucerBB";
     font-weight: bold;
     src: url("{{ site.baseurl }}/fonts/SaucerBB.ttf");
 }
@@ -46,7 +46,7 @@ body {
 
 // No `:visited` state is required by default (browsers will use `a`)
 a {
-  color: #5882FA;
+  color: #A9D0F5;
   text-decoration: none;
 
   // `:focus` is linked to `:hover` for basic accessibility
@@ -87,5 +87,5 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #A9D0F5;
+  background-color: #CEE3F6;
 }
