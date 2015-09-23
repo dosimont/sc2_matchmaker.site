@@ -10,7 +10,6 @@
 
 @font-face {
     font-family: "SaucerBB";
-    font-weight: bold;
     src: url("{{ site.baseurl }}/fonts/SaucerBB.ttf");
 }
 
@@ -87,5 +86,5 @@ th {
 
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #CEE3F6;
+  background-color: #F5FAFF;
 }
