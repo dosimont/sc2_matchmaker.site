@@ -13,3 +13,4 @@ title: Classic
 | 7    | Birdy        | 1145 (8/11)  | 1145 (8/11) |None        |None         |None        |
 | 8    | Bouh         | 1138 (13/26) | 1148 (5/8)  | 1120 (0/4) | 1124 (5/9)  | 1161 (3/5) |
 | 9    | Bastione     | 998 (7/7)    | 940 (2/5)   |None        | 1057 (5/2)  |None        |
+| 10   | Balfu3r      | 0 (0/0)      |None         |None        |None         |None        |
